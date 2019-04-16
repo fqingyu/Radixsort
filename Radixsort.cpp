@@ -3,7 +3,7 @@
 #include<time.h>
 using namespace std;
 
-int FindMaxNum(vector<int> arr)
+int FindMaxNum(vector<int> arr)111
 {
 	int max = 0;
 	int count = arr.size();
